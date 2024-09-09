@@ -5,6 +5,7 @@ import 'categories_page.dart';
 import 'favorite_food_page.dart';
 
 class BottomNavPage extends StatefulWidget {
+  static const String rouename="bottomnav";
   const BottomNavPage({super.key});
 
   @override
